@@ -68,7 +68,7 @@ In order to get `apt` to install packages, you have to run the following command
 install-dev-tools
 ```
 
-Then you need to be able to see the fans. I used the [GitHub - Stonyx/QNAP-EC](https://github.com/Stonyx/QNAP-EC). This isn’t specifically written for my model but it worked to add a driver so I can read the fan values and write them.
+Then you need to be able to see the fans. I used the [GitHub - piwi3910/QNAP-EC](https://github.com/piwi3910/QNAP-EC). This isn’t specifically written for my model but it worked to add a driver so I can read the fan values and write them.
 
 ```bash
 apt install build-essential git
